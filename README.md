@@ -1,16 +1,91 @@
-## Hi there 👋
+# Hi, I'm Pouya Heydarabadi 👋
 
-<!--
-**heydarabadi/heydarabadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Currently Working On:
+- Designing and architecting **Microservices** systems using **.NET**.
+- Implementing **AI Generative Models** to automate and improve business processes.
 
-Here are some ideas to get you started:
+## 💻 About Me:
+I am a system architect, designer, and **Team Lead** with a strong passion for learning. I specialize in building scalable and flexible systems using modern technologies like **.NET Core**, **Microservices**, and **AI Generative Models**. Currently, I am working on several microservices-related projects, implementing **Semantic Kernel** for AI in various applications, and learning new ways to improve my workflow and skills in AI and system design.
+### 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heydarabadi&count_private=true&show_icons=true&hide=prs&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 GitHub Trophy:
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=heydarabadi&theme=radical&margin-w=15&margin-h=15)
+
+## 🛠️ Skills & Technologies:
+- **.NET Core** ![.NET Core](https://img.shields.io/badge/.NET%20Core-%23007ACC?style=flat&logo=.net&logoColor=white)
+- **ASP.NET** ![ASP.NET](https://img.shields.io/badge/ASP.NET-%23dd0031?style=flat&logo=asp.net&logoColor=white)
+- **C#** ![C#](https://img.shields.io/badge/C%23-%23239120?style=flat&logo=csharp&logoColor=white)
+- **Microservices Architecture** ![Microservices](https://img.shields.io/badge/Microservices-%23ff3c00?style=flat&logo=docker&logoColor=white)
+- **AI Generative Models with Semantic Kernel** ![Semantic Kernel](https://img.shields.io/badge/Semantic%20Kernel-%2300bfae?style=flat&logo=tensorflow&logoColor=white)
+- **Docker** ![Docker](https://img.shields.io/badge/Docker-%232496ed?style=flat&logo=docker&logoColor=white)
+- **Kubernetes** ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5?style=flat&logo=kubernetes&logoColor=white)
+- **Event-Driven Architecture** ![Event-Driven](https://img.shields.io/badge/Event%20Driven-%2343e8ff?style=flat&logo=rabbitmq&logoColor=white)
+- **Kafka** ![Kafka](https://img.shields.io/badge/Kafka-%23e31b6d?style=flat&logo=apachekafka&logoColor=white)
+- **RabbitMQ** ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23ff6600?style=flat&logo=rabbitmq&logoColor=white)
+- **CI/CD** ![CI/CD](https://img.shields.io/badge/CI%2FCD-%23629e52?style=flat&logo=jenkins&logoColor=white)
+- 🧠 **AI Technologies**
+
+## 📬 How to Contact Me:
+- [LinkedIn](https://www.linkedin.com/in/heydarabadi-b47897198)
+
+---
+
+## 🚀 Top Projects:
+
+### ⚙️ [RuleEngine](https://github.com/heydarabadi/RuleEngine)
+**Description**: A dynamic rule engine designed to evaluate business logic and automate decision-making processes based on various inputs. Built with **.NET Core** and focuses on high flexibility and scalability.
+
+**Stats**:
+- **Stars**: ![GitHub Stars](https://img.shields.io/github/stars/heydarabadi/RuleEngine?style=social)
+- **Forks**: ![GitHub Forks](https://img.shields.io/github/forks/heydarabadi/RuleEngine?style=social)
+- **Open Issues**: ![Open Issues](https://img.shields.io/github/issues/heydarabadi/RuleEngine?style=social)
+- **Pull Requests**: ![Pull Requests](https://img.shields.io/github/issues-pr/heydarabadi/RuleEngine?style=social)
+
+---
+
+### 🌌 [SpaceBase-Architecture](https://github.com/heydarabadi/SpaceBase-Architecture)
+**Description**: A cloud-native microservices architecture designed to handle large-scale systems, incorporating components like identity management, catalog services, and order placement.
+
+**Stats**:
+- **Stars**: ![GitHub Stars](https://img.shields.io/github/stars/heydarabadi/SpaceBase-Architecture?style=social)
+- **Forks**: ![GitHub Forks](https://img.shields.io/github/forks/heydarabadi/SpaceBase-Architecture?style=social)
+- **Open Issues**: ![Open Issues](https://img.shields.io/github/issues/heydarabadi/SpaceBase-Architecture?style=social)
+- **Pull Requests**: ![Pull Requests](https://img.shields.io/github/issues-pr/heydarabadi/SpaceBase-Architecture?style=social)
+
+---
+
+### 🧠 [ObjectDetection-Service](https://github.com/heydarabadi/ObjectDetection-Service)
+**Description**: Object Detection API for identifying objects in images using deep learning models with **TensorFlow** and **PyTorch**.
+
+**Stats**:
+- **Stars**: ![GitHub Stars](https://img.shields.io/github/stars/heydarabadi/ObjectDetection-Service?style=social)
+- **Forks**: ![GitHub Forks](https://img.shields.io/github/forks/heydarabadi/ObjectDetection-Service?style=social)
+- **Open Issues**: ![Open Issues](https://img.shields.io/github/issues/heydarabadi/ObjectDetection-Service?style=social)
+- **Pull Requests**: ![Pull Requests](https://img.shields.io/github/issues-pr/heydarabadi/ObjectDetection-Service?style=social)
+
+---
+
+### 🔍 [Search-Service](https://github.com/heydarabadi/Search-Service)
+**Description**: A microservice that implements a search functionality for distributed systems, optimized for fast, efficient search across multiple datasets.
+
+**Stats**:
+- **Stars**: ![GitHub Stars](https://img.shields.io/github/stars/heydarabadi/Search-Service?style=social)
+- **Forks**: ![GitHub Forks](https://img.shields.io/github/forks/heydarabadi/Search-Service?style=social)
+- **Open Issues**: ![Open Issues](https://img.shields.io/github/issues/heydarabadi/Search-Service?style=social)
+- **Pull Requests**: ![Pull Requests](https://img.shields.io/github/issues-pr/heydarabadi/Search-Service?style=social)
+
+---
+
+### 🛒 [EShop_MicroService](https://github.com/heydarabadi/EShop_MicroService)
+**Description**: E-commerce microservice built with **.NET Core** and **ASP.NET**, including features like order handling, product catalogs, and payment gateway integration.
+
+**Stats**:
+- **Stars**: ![GitHub Stars](https://img.shields.io/github/stars/heydarabadi/EShop_MicroService?style=social)
+- **Forks**: ![GitHub Forks](https://img.shields.io/github/forks/heydarabadi/EShop_MicroService?style=social)
+- **Open Issues**: ![Open Issues](https://img.shields.io/github/issues/heydarabadi/EShop_MicroService?style=social)
+- **Pull Requests**: ![Pull Requests](https://img.shields.io/github/issues-pr/heydarabadi/EShop_MicroService?style=social)
+
+---
+
+I am constantly learning and experimenting with new technologies, which fuels my passion for building robust and scalable systems. Feel free to check out my projects and reach out if you’re interested in collaborating!
